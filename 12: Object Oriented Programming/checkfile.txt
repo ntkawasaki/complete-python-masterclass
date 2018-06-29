@@ -1,0 +1,684 @@
+1000 Maniacs	Our Time in Eden	1992	<__main__.Album object at 0x101a60ac8>
+1000 Maniacs	Our Time in Eden	1992	<__main__.Album object at 0x101a60ac8>
+1000 Maniacs	Our Time in Eden	1992	<__main__.Album object at 0x101a60ac8>
+1000 Maniacs	Our Time in Eden	1992	<__main__.Album object at 0x101a60ac8>
+1000 Maniacs	Our Time in Eden	1992	<__main__.Album object at 0x101a60ac8>
+1000 Maniacs	Our Time in Eden	1992	<__main__.Album object at 0x101a60ac8>
+1000 Maniacs	Our Time in Eden	1992	<__main__.Album object at 0x101a60ac8>
+1000 Maniacs	Our Time in Eden	1992	<__main__.Album object at 0x101a60ac8>
+1000 Maniacs	Our Time in Eden	1992	<__main__.Album object at 0x101a60ac8>
+1000 Maniacs	Our Time in Eden	1992	<__main__.Album object at 0x101a60ac8>
+1000 Maniacs	Our Time in Eden	1992	<__main__.Album object at 0x101a60ac8>
+1000 Maniacs	Our Time in Eden	1992	<__main__.Album object at 0x101a60ac8>
+1000 Maniacs	Our Time in Eden	1992	<__main__.Album object at 0x101a60ac8>
+10cc	The Best Of The Early Years	2002	<__main__.Album object at 0x101a60e48>
+10cc	The Best Of The Early Years	2002	<__main__.Album object at 0x101a60e48>
+10cc	The Best Of The Early Years	2002	<__main__.Album object at 0x101a60e48>
+10cc	The Best Of The Early Years	2002	<__main__.Album object at 0x101a60e48>
+10cc	The Best Of The Early Years	2002	<__main__.Album object at 0x101a60e48>
+10cc	The Best Of The Early Years	2002	<__main__.Album object at 0x101a60e48>
+10cc	The Best Of The Early Years	2002	<__main__.Album object at 0x101a60e48>
+10cc	The Best Of The Early Years	2002	<__main__.Album object at 0x101a60e48>
+10cc	The Best Of The Early Years	2002	<__main__.Album object at 0x101a60e48>
+10cc	The Best Of The Early Years	2002	<__main__.Album object at 0x101a60e48>
+10cc	The Best Of The Early Years	2002	<__main__.Album object at 0x101a60e48>
+10cc	The Best Of The Early Years	2002	<__main__.Album object at 0x101a60e48>
+10cc	The Best Of The Early Years	2002	<__main__.Album object at 0x101a60e48>
+10cc	The Best Of The Early Years	2002	<__main__.Album object at 0x101a60e48>
+10cc	The Best Of The Early Years	2002	<__main__.Album object at 0x101a60e48>
+10cc	The Best Of The Early Years	2002	<__main__.Album object at 0x101a60e48>
+10cc	The Best Of The Early Years	2002	<__main__.Album object at 0x101a60e48>
+10cc	The Best Of The Early Years	2002	<__main__.Album object at 0x101a60e48>
+10cc	The Best Of The Early Years	2002	<__main__.Album object at 0x101a60e48>
+10cc	The Best Of The Early Years	2002	<__main__.Album object at 0x101a60e48>
+AC DC	If You Want Blood, You've Got It	1978	<__main__.Album object at 0x101a6a0b8>
+AC DC	If You Want Blood, You've Got It	1978	<__main__.Album object at 0x101a6a0b8>
+AC DC	If You Want Blood, You've Got It	1978	<__main__.Album object at 0x101a6a0b8>
+AC DC	If You Want Blood, You've Got It	1978	<__main__.Album object at 0x101a6a0b8>
+AC DC	If You Want Blood, You've Got It	1978	<__main__.Album object at 0x101a6a0b8>
+AC DC	If You Want Blood, You've Got It	1978	<__main__.Album object at 0x101a6a0b8>
+AC DC	If You Want Blood, You've Got It	1978	<__main__.Album object at 0x101a6a0b8>
+AC DC	If You Want Blood, You've Got It	1978	<__main__.Album object at 0x101a6a0b8>
+AC DC	If You Want Blood, You've Got It	1978	<__main__.Album object at 0x101a6a0b8>
+AC DC	If You Want Blood, You've Got It	1978	<__main__.Album object at 0x101a6a0b8>
+AC DC	For Those About To Rock (We Salute You)	1981	<__main__.Album object at 0x101a6a6a0>
+AC DC	For Those About To Rock (We Salute You)	1981	<__main__.Album object at 0x101a6a6a0>
+AC DC	For Those About To Rock (We Salute You)	1981	<__main__.Album object at 0x101a6a6a0>
+AC DC	For Those About To Rock (We Salute You)	1981	<__main__.Album object at 0x101a6a6a0>
+AC DC	For Those About To Rock (We Salute You)	1981	<__main__.Album object at 0x101a6a6a0>
+AC DC	For Those About To Rock (We Salute You)	1981	<__main__.Album object at 0x101a6a6a0>
+AC DC	For Those About To Rock (We Salute You)	1981	<__main__.Album object at 0x101a6a6a0>
+AC DC	For Those About To Rock (We Salute You)	1981	<__main__.Album object at 0x101a6a6a0>
+AC DC	For Those About To Rock (We Salute You)	1981	<__main__.Album object at 0x101a6a6a0>
+AC DC	For Those About To Rock (We Salute You)	1981	<__main__.Album object at 0x101a6a6a0>
+Aerosmith	Aerosmith	1973	<__main__.Album object at 0x101a6a908>
+Aerosmith	Aerosmith	1973	<__main__.Album object at 0x101a6a908>
+Aerosmith	Aerosmith	1973	<__main__.Album object at 0x101a6a908>
+Aerosmith	Aerosmith	1973	<__main__.Album object at 0x101a6a908>
+Aerosmith	Aerosmith	1973	<__main__.Album object at 0x101a6a908>
+Aerosmith	Aerosmith	1973	<__main__.Album object at 0x101a6a908>
+Aerosmith	Aerosmith	1973	<__main__.Album object at 0x101a6a908>
+Aerosmith	Aerosmith	1973	<__main__.Album object at 0x101a6a908>
+Aerosmith	Get Your Wings	1974	<__main__.Album object at 0x101a6aa90>
+Aerosmith	Get Your Wings	1974	<__main__.Album object at 0x101a6aa90>
+Aerosmith	Get Your Wings	1974	<__main__.Album object at 0x101a6aa90>
+Aerosmith	Get Your Wings	1974	<__main__.Album object at 0x101a6aa90>
+Aerosmith	Get Your Wings	1974	<__main__.Album object at 0x101a6aa90>
+Aerosmith	Get Your Wings	1974	<__main__.Album object at 0x101a6aa90>
+Aerosmith	Get Your Wings	1974	<__main__.Album object at 0x101a6aa90>
+Aerosmith	Get Your Wings	1974	<__main__.Album object at 0x101a6aa90>
+Aerosmith	Toys In The Attic	1975	<__main__.Album object at 0x101a6ac88>
+Aerosmith	Toys In The Attic	1975	<__main__.Album object at 0x101a6ac88>
+Aerosmith	Toys In The Attic	1975	<__main__.Album object at 0x101a6ac88>
+Aerosmith	Toys In The Attic	1975	<__main__.Album object at 0x101a6ac88>
+Aerosmith	Toys In The Attic	1975	<__main__.Album object at 0x101a6ac88>
+Aerosmith	Toys In The Attic	1975	<__main__.Album object at 0x101a6ac88>
+Aerosmith	Toys In The Attic	1975	<__main__.Album object at 0x101a6ac88>
+Aerosmith	Toys In The Attic	1975	<__main__.Album object at 0x101a6ac88>
+Aerosmith	Toys In The Attic	1975	<__main__.Album object at 0x101a6ac88>
+Aerosmith	Live! Bootleg	1978	<__main__.Album object at 0x101a6aeb8>
+Aerosmith	Live! Bootleg	1978	<__main__.Album object at 0x101a6aeb8>
+Aerosmith	Live! Bootleg	1978	<__main__.Album object at 0x101a6aeb8>
+Aerosmith	Live! Bootleg	1978	<__main__.Album object at 0x101a6aeb8>
+Aerosmith	Live! Bootleg	1978	<__main__.Album object at 0x101a6aeb8>
+Aerosmith	Live! Bootleg	1978	<__main__.Album object at 0x101a6aeb8>
+Aerosmith	Live! Bootleg	1978	<__main__.Album object at 0x101a6aeb8>
+Aerosmith	Live! Bootleg	1978	<__main__.Album object at 0x101a6aeb8>
+Aerosmith	Live! Bootleg	1978	<__main__.Album object at 0x101a6aeb8>
+Aerosmith	Live! Bootleg	1978	<__main__.Album object at 0x101a6aeb8>
+Aerosmith	Live! Bootleg	1978	<__main__.Album object at 0x101a6aeb8>
+Aerosmith	Live! Bootleg	1978	<__main__.Album object at 0x101a6aeb8>
+Aerosmith	Live! Bootleg	1978	<__main__.Album object at 0x101a6aeb8>
+Aerosmith	Live! Bootleg	1978	<__main__.Album object at 0x101a6aeb8>
+Aerosmith	Live! Bootleg	1978	<__main__.Album object at 0x101a6aeb8>
+Aerosmith	Live! Bootleg	1978	<__main__.Album object at 0x101a6aeb8>
+Aerosmith	Night In The Ruts	1979	<__main__.Album object at 0x101a722b0>
+Aerosmith	Night In The Ruts	1979	<__main__.Album object at 0x101a722b0>
+Aerosmith	Night In The Ruts	1979	<__main__.Album object at 0x101a722b0>
+Aerosmith	Night In The Ruts	1979	<__main__.Album object at 0x101a722b0>
+Aerosmith	Night In The Ruts	1979	<__main__.Album object at 0x101a722b0>
+Aerosmith	Night In The Ruts	1979	<__main__.Album object at 0x101a722b0>
+Aerosmith	Night In The Ruts	1979	<__main__.Album object at 0x101a722b0>
+Aerosmith	Night In The Ruts	1979	<__main__.Album object at 0x101a722b0>
+Aerosmith	Night In The Ruts	1979	<__main__.Album object at 0x101a722b0>
+Aerosmith	Done With Mirrors	1985	<__main__.Album object at 0x101a72518>
+Aerosmith	Done With Mirrors	1985	<__main__.Album object at 0x101a72518>
+Aerosmith	Done With Mirrors	1985	<__main__.Album object at 0x101a72518>
+Aerosmith	Done With Mirrors	1985	<__main__.Album object at 0x101a72518>
+Aerosmith	Done With Mirrors	1985	<__main__.Album object at 0x101a72518>
+Aerosmith	Done With Mirrors	1985	<__main__.Album object at 0x101a72518>
+Aerosmith	Done With Mirrors	1985	<__main__.Album object at 0x101a72518>
+Aerosmith	Done With Mirrors	1985	<__main__.Album object at 0x101a72518>
+Aerosmith	Done With Mirrors	1985	<__main__.Album object at 0x101a72518>
+Aerosmith	Permanent Vacation	1987	<__main__.Album object at 0x101a726d8>
+Aerosmith	Permanent Vacation	1987	<__main__.Album object at 0x101a726d8>
+Aerosmith	Permanent Vacation	1987	<__main__.Album object at 0x101a726d8>
+Aerosmith	Permanent Vacation	1987	<__main__.Album object at 0x101a726d8>
+Aerosmith	Permanent Vacation	1987	<__main__.Album object at 0x101a726d8>
+Aerosmith	Permanent Vacation	1987	<__main__.Album object at 0x101a726d8>
+Aerosmith	Permanent Vacation	1987	<__main__.Album object at 0x101a726d8>
+Aerosmith	Permanent Vacation	1987	<__main__.Album object at 0x101a726d8>
+Aerosmith	Permanent Vacation	1987	<__main__.Album object at 0x101a726d8>
+Aerosmith	Permanent Vacation	1987	<__main__.Album object at 0x101a726d8>
+Aerosmith	Permanent Vacation	1987	<__main__.Album object at 0x101a726d8>
+Aerosmith	Permanent Vacation	1987	<__main__.Album object at 0x101a726d8>
+Aerosmith	Gems	1988	<__main__.Album object at 0x101a72a20>
+Aerosmith	Gems	1988	<__main__.Album object at 0x101a72a20>
+Aerosmith	Gems	1988	<__main__.Album object at 0x101a72a20>
+Aerosmith	Gems	1988	<__main__.Album object at 0x101a72a20>
+Aerosmith	Gems	1988	<__main__.Album object at 0x101a72a20>
+Aerosmith	Gems	1988	<__main__.Album object at 0x101a72a20>
+Aerosmith	Gems	1988	<__main__.Album object at 0x101a72a20>
+Aerosmith	Gems	1988	<__main__.Album object at 0x101a72a20>
+Aerosmith	Gems	1988	<__main__.Album object at 0x101a72a20>
+Aerosmith	Gems	1988	<__main__.Album object at 0x101a72a20>
+Aerosmith	Gems	1988	<__main__.Album object at 0x101a72a20>
+Aerosmith	Gems	1988	<__main__.Album object at 0x101a72a20>
+Aerosmith	Pump	1989	<__main__.Album object at 0x101a72d68>
+Aerosmith	Pump	1989	<__main__.Album object at 0x101a72d68>
+Aerosmith	Pump	1989	<__main__.Album object at 0x101a72d68>
+Aerosmith	Pump	1989	<__main__.Album object at 0x101a72d68>
+Aerosmith	Pump	1989	<__main__.Album object at 0x101a72d68>
+Aerosmith	Pump	1989	<__main__.Album object at 0x101a72d68>
+Aerosmith	Pump	1989	<__main__.Album object at 0x101a72d68>
+Aerosmith	Pump	1989	<__main__.Album object at 0x101a72d68>
+Aerosmith	Pump	1989	<__main__.Album object at 0x101a72d68>
+Aerosmith	Pump	1989	<__main__.Album object at 0x101a72d68>
+Aerosmith	Get A Grip	1993	<__main__.Album object at 0x101a72da0>
+Aerosmith	Get A Grip	1993	<__main__.Album object at 0x101a72da0>
+Aerosmith	Get A Grip	1993	<__main__.Album object at 0x101a72da0>
+Aerosmith	Get A Grip	1993	<__main__.Album object at 0x101a72da0>
+Aerosmith	Get A Grip	1993	<__main__.Album object at 0x101a72da0>
+Aerosmith	Get A Grip	1993	<__main__.Album object at 0x101a72da0>
+Aerosmith	Get A Grip	1993	<__main__.Album object at 0x101a72da0>
+Aerosmith	Get A Grip	1993	<__main__.Album object at 0x101a72da0>
+Aerosmith	Get A Grip	1993	<__main__.Album object at 0x101a72da0>
+Aerosmith	Get A Grip	1993	<__main__.Album object at 0x101a72da0>
+Aerosmith	Get A Grip	1993	<__main__.Album object at 0x101a72da0>
+Aerosmith	Get A Grip	1993	<__main__.Album object at 0x101a72da0>
+Aerosmith	Get A Grip	1993	<__main__.Album object at 0x101a72da0>
+Aerosmith	Get A Grip	1993	<__main__.Album object at 0x101a72da0>
+Aerosmith	Get A Grip	1993	<__main__.Album object at 0x101a72da0>
+Aerosmith	Big Ones	1994	<__main__.Album object at 0x101a74390>
+Aerosmith	Big Ones	1994	<__main__.Album object at 0x101a74390>
+Aerosmith	Big Ones	1994	<__main__.Album object at 0x101a74390>
+Aerosmith	Big Ones	1994	<__main__.Album object at 0x101a74390>
+Aerosmith	Big Ones	1994	<__main__.Album object at 0x101a74390>
+Aerosmith	Big Ones	1994	<__main__.Album object at 0x101a74390>
+Aerosmith	Big Ones	1994	<__main__.Album object at 0x101a74390>
+Aerosmith	Big Ones	1994	<__main__.Album object at 0x101a74390>
+Aerosmith	Big Ones	1994	<__main__.Album object at 0x101a74390>
+Aerosmith	Big Ones	1994	<__main__.Album object at 0x101a74390>
+Aerosmith	Big Ones	1994	<__main__.Album object at 0x101a74390>
+Aerosmith	Big Ones	1994	<__main__.Album object at 0x101a74390>
+Aerosmith	Big Ones	1994	<__main__.Album object at 0x101a74390>
+Aerosmith	Big Ones	1994	<__main__.Album object at 0x101a74390>
+Aerosmith	Big Ones	1994	<__main__.Album object at 0x101a74390>
+Aerosmith	Big Ones	1994	<__main__.Album object at 0x101a74390>
+Aerosmith	Nine Lives	1997	<__main__.Album object at 0x101a74748>
+Aerosmith	Nine Lives	1997	<__main__.Album object at 0x101a74748>
+Aerosmith	Nine Lives	1997	<__main__.Album object at 0x101a74748>
+Aerosmith	Nine Lives	1997	<__main__.Album object at 0x101a74748>
+Aerosmith	Nine Lives	1997	<__main__.Album object at 0x101a74748>
+Aerosmith	Nine Lives	1997	<__main__.Album object at 0x101a74748>
+Aerosmith	Nine Lives	1997	<__main__.Album object at 0x101a74748>
+Aerosmith	Nine Lives	1997	<__main__.Album object at 0x101a74748>
+Aerosmith	Nine Lives	1997	<__main__.Album object at 0x101a74748>
+Aerosmith	Nine Lives	1997	<__main__.Album object at 0x101a74748>
+Aerosmith	Nine Lives	1997	<__main__.Album object at 0x101a74748>
+Aerosmith	Nine Lives	1997	<__main__.Album object at 0x101a74748>
+Aerosmith	Nine Lives	1997	<__main__.Album object at 0x101a74748>
+Aerosmith	Nine Lives	1997	<__main__.Album object at 0x101a74748>
+Aerosmith	Just Push Play	2001	<__main__.Album object at 0x101a74a58>
+Aerosmith	Just Push Play	2001	<__main__.Album object at 0x101a74a58>
+Aerosmith	Just Push Play	2001	<__main__.Album object at 0x101a74a58>
+Aerosmith	Just Push Play	2001	<__main__.Album object at 0x101a74a58>
+Aerosmith	Just Push Play	2001	<__main__.Album object at 0x101a74a58>
+Aerosmith	Just Push Play	2001	<__main__.Album object at 0x101a74a58>
+Aerosmith	Just Push Play	2001	<__main__.Album object at 0x101a74a58>
+Aerosmith	Just Push Play	2001	<__main__.Album object at 0x101a74a58>
+Aerosmith	Just Push Play	2001	<__main__.Album object at 0x101a74a58>
+Aerosmith	Just Push Play	2001	<__main__.Album object at 0x101a74a58>
+Aerosmith	Just Push Play	2001	<__main__.Album object at 0x101a74a58>
+Aerosmith	Just Push Play	2001	<__main__.Album object at 0x101a74a58>
+Aerosmith	Just Push Play	2001	<__main__.Album object at 0x101a74a58>
+Alice Cooper	Welcome To My Nightmare	1975	<__main__.Album object at 0x101a74d68>
+Alice Cooper	Welcome To My Nightmare	1975	<__main__.Album object at 0x101a74d68>
+Alice Cooper	Welcome To My Nightmare	1975	<__main__.Album object at 0x101a74d68>
+Alice Cooper	Welcome To My Nightmare	1975	<__main__.Album object at 0x101a74d68>
+Alice Cooper	Welcome To My Nightmare	1975	<__main__.Album object at 0x101a74d68>
+Alice Cooper	Welcome To My Nightmare	1975	<__main__.Album object at 0x101a74d68>
+Alice Cooper	Welcome To My Nightmare	1975	<__main__.Album object at 0x101a74d68>
+Alice Cooper	Welcome To My Nightmare	1975	<__main__.Album object at 0x101a74d68>
+Alice Cooper	Welcome To My Nightmare	1975	<__main__.Album object at 0x101a74d68>
+Alice Cooper	Welcome To My Nightmare	1975	<__main__.Album object at 0x101a74d68>
+Alice Cooper	Welcome To My Nightmare	1975	<__main__.Album object at 0x101a74d68>
+Alice Cooper	Welcome To My Nightmare	1975	<__main__.Album object at 0x101a74d68>
+Alice Cooper	Welcome To My Nightmare	1975	<__main__.Album object at 0x101a74d68>
+Alice Cooper	Welcome To My Nightmare	1975	<__main__.Album object at 0x101a74d68>
+Alice Cooper	Hell Is	2003	<__main__.Album object at 0x101a781d0>
+Alice Cooper	Hell Is	2003	<__main__.Album object at 0x101a781d0>
+Alice Cooper	Hell Is	2003	<__main__.Album object at 0x101a781d0>
+Alice Cooper	Hell Is	2003	<__main__.Album object at 0x101a781d0>
+Alice Cooper	Hell Is	2003	<__main__.Album object at 0x101a781d0>
+Alice Cooper	Hell Is	2003	<__main__.Album object at 0x101a781d0>
+Alice Cooper	Hell Is	2003	<__main__.Album object at 0x101a781d0>
+Alice Cooper	Hell Is	2003	<__main__.Album object at 0x101a781d0>
+Alice Cooper	Hell Is	2003	<__main__.Album object at 0x101a781d0>
+Alice Cooper	Hell Is	2003	<__main__.Album object at 0x101a781d0>
+Alice Cooper	Hell Is	2003	<__main__.Album object at 0x101a781d0>
+Alice Cooper	Hell Is	2003	<__main__.Album object at 0x101a781d0>
+Alice Cooper	Hell Is	2003	<__main__.Album object at 0x101a781d0>
+Alice Cooper	Hell Is	2003	<__main__.Album object at 0x101a781d0>
+Alice Cooper	Hell Is	2003	<__main__.Album object at 0x101a781d0>
+Alice Cooper	Hell Is	2003	<__main__.Album object at 0x101a781d0>
+Animals	The Most Of The Animals	1966	<__main__.Album object at 0x101a78518>
+Animals	The Most Of The Animals	1966	<__main__.Album object at 0x101a78518>
+Animals	The Most Of The Animals	1966	<__main__.Album object at 0x101a78518>
+Animals	The Most Of The Animals	1966	<__main__.Album object at 0x101a78518>
+Animals	The Most Of The Animals	1966	<__main__.Album object at 0x101a78518>
+Animals	The Most Of The Animals	1966	<__main__.Album object at 0x101a78518>
+Animals	The Most Of The Animals	1966	<__main__.Album object at 0x101a78518>
+Animals	The Most Of The Animals	1966	<__main__.Album object at 0x101a78518>
+Animals	The Most Of The Animals	1966	<__main__.Album object at 0x101a78518>
+Animals	The Most Of The Animals	1966	<__main__.Album object at 0x101a78518>
+Animals	The Most Of The Animals	1966	<__main__.Album object at 0x101a78518>
+Animals	The Most Of The Animals	1966	<__main__.Album object at 0x101a78518>
+Animals	The Most Of The Animals	1966	<__main__.Album object at 0x101a78518>
+Animals	The Most Of The Animals	1966	<__main__.Album object at 0x101a78518>
+Animals	The Most Of The Animals	1966	<__main__.Album object at 0x101a78518>
+Animals	The Most Of The Animals	1966	<__main__.Album object at 0x101a78518>
+George Thorogood & The Destroyers	One Bourbon, One Scotch, One Beer	2009	<__main__.Album object at 0x101a785f8>
+George Thorogood & The Destroyers	One Bourbon, One Scotch, One Beer	2009	<__main__.Album object at 0x101a785f8>
+George Thorogood & The Destroyers	One Bourbon, One Scotch, One Beer	2009	<__main__.Album object at 0x101a785f8>
+George Thorogood & The Destroyers	One Bourbon, One Scotch, One Beer	2009	<__main__.Album object at 0x101a785f8>
+George Thorogood & The Destroyers	One Bourbon, One Scotch, One Beer	2009	<__main__.Album object at 0x101a785f8>
+George Thorogood & The Destroyers	One Bourbon, One Scotch, One Beer	2009	<__main__.Album object at 0x101a785f8>
+George Thorogood & The Destroyers	One Bourbon, One Scotch, One Beer	2009	<__main__.Album object at 0x101a785f8>
+George Thorogood & The Destroyers	One Bourbon, One Scotch, One Beer	2009	<__main__.Album object at 0x101a785f8>
+George Thorogood & The Destroyers	One Bourbon, One Scotch, One Beer	2009	<__main__.Album object at 0x101a785f8>
+George Thorogood & The Destroyers	One Bourbon, One Scotch, One Beer	2009	<__main__.Album object at 0x101a785f8>
+George Thorogood & The Destroyers	Ride 'Til I Die	2003	<__main__.Album object at 0x101a78be0>
+George Thorogood & The Destroyers	Ride 'Til I Die	2003	<__main__.Album object at 0x101a78be0>
+George Thorogood & The Destroyers	Ride 'Til I Die	2003	<__main__.Album object at 0x101a78be0>
+George Thorogood & The Destroyers	Ride 'Til I Die	2003	<__main__.Album object at 0x101a78be0>
+George Thorogood & The Destroyers	Ride 'Til I Die	2003	<__main__.Album object at 0x101a78be0>
+George Thorogood & The Destroyers	Ride 'Til I Die	2003	<__main__.Album object at 0x101a78be0>
+George Thorogood & The Destroyers	Ride 'Til I Die	2003	<__main__.Album object at 0x101a78be0>
+George Thorogood & The Destroyers	Ride 'Til I Die	2003	<__main__.Album object at 0x101a78be0>
+George Thorogood & The Destroyers	Ride 'Til I Die	2003	<__main__.Album object at 0x101a78be0>
+George Thorogood & The Destroyers	Ride 'Til I Die	2003	<__main__.Album object at 0x101a78be0>
+George Thorogood & The Destroyers	Ride 'Til I Die	2003	<__main__.Album object at 0x101a78be0>
+George Thorogood & The Destroyers	Ride 'Til I Die	2003	<__main__.Album object at 0x101a78be0>
+George Thorogood & The Destroyers	Ride 'Til I Die	2003	<__main__.Album object at 0x101a78be0>
+George Thorogood & The Destroyers	The Baddest Of George Thorogood & The Destroyers	1992	<__main__.Album object at 0x101a78eb8>
+George Thorogood & The Destroyers	The Baddest Of George Thorogood & The Destroyers	1992	<__main__.Album object at 0x101a78eb8>
+George Thorogood & The Destroyers	The Baddest Of George Thorogood & The Destroyers	1992	<__main__.Album object at 0x101a78eb8>
+George Thorogood & The Destroyers	The Baddest Of George Thorogood & The Destroyers	1992	<__main__.Album object at 0x101a78eb8>
+George Thorogood & The Destroyers	The Baddest Of George Thorogood & The Destroyers	1992	<__main__.Album object at 0x101a78eb8>
+George Thorogood & The Destroyers	The Baddest Of George Thorogood & The Destroyers	1992	<__main__.Album object at 0x101a78eb8>
+George Thorogood & The Destroyers	The Baddest Of George Thorogood & The Destroyers	1992	<__main__.Album object at 0x101a78eb8>
+George Thorogood & The Destroyers	The Baddest Of George Thorogood & The Destroyers	1992	<__main__.Album object at 0x101a78eb8>
+George Thorogood & The Destroyers	The Baddest Of George Thorogood & The Destroyers	1992	<__main__.Album object at 0x101a78eb8>
+George Thorogood & The Destroyers	The Baddest Of George Thorogood & The Destroyers	1992	<__main__.Album object at 0x101a78eb8>
+George Thorogood & The Destroyers	The Baddest Of George Thorogood & The Destroyers	1992	<__main__.Album object at 0x101a78eb8>
+George Thorogood & The Destroyers	The Baddest Of George Thorogood & The Destroyers	1992	<__main__.Album object at 0x101a78eb8>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<__main__.Album object at 0x101a7b240>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<__main__.Album object at 0x101a7b240>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<__main__.Album object at 0x101a7b240>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<__main__.Album object at 0x101a7b240>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<__main__.Album object at 0x101a7b240>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<__main__.Album object at 0x101a7b240>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<__main__.Album object at 0x101a7b240>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<__main__.Album object at 0x101a7b240>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<__main__.Album object at 0x101a7b240>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<__main__.Album object at 0x101a7b240>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<__main__.Album object at 0x101a7b240>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<__main__.Album object at 0x101a7b240>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<__main__.Album object at 0x101a7b240>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<__main__.Album object at 0x101a7b240>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<__main__.Album object at 0x101a7b240>
+Heart	Dreamboat Annie	1976	<__main__.Album object at 0x101a7b630>
+Heart	Dreamboat Annie	1976	<__main__.Album object at 0x101a7b630>
+Heart	Dreamboat Annie	1976	<__main__.Album object at 0x101a7b630>
+Heart	Dreamboat Annie	1976	<__main__.Album object at 0x101a7b630>
+Heart	Dreamboat Annie	1976	<__main__.Album object at 0x101a7b630>
+Heart	Dreamboat Annie	1976	<__main__.Album object at 0x101a7b630>
+Heart	Dreamboat Annie	1976	<__main__.Album object at 0x101a7b630>
+Heart	Dreamboat Annie	1976	<__main__.Album object at 0x101a7b630>
+Heart	Dreamboat Annie	1976	<__main__.Album object at 0x101a7b630>
+Heart	Dreamboat Annie	1976	<__main__.Album object at 0x101a7b630>
+Heart	Little Queen	1977	<__main__.Album object at 0x101a7b908>
+Heart	Little Queen	1977	<__main__.Album object at 0x101a7b908>
+Heart	Little Queen	1977	<__main__.Album object at 0x101a7b908>
+Heart	Little Queen	1977	<__main__.Album object at 0x101a7b908>
+Heart	Little Queen	1977	<__main__.Album object at 0x101a7b908>
+Heart	Little Queen	1977	<__main__.Album object at 0x101a7b908>
+Heart	Little Queen	1977	<__main__.Album object at 0x101a7b908>
+Heart	Little Queen	1977	<__main__.Album object at 0x101a7b908>
+Heart	Little Queen	1977	<__main__.Album object at 0x101a7b908>
+Heart	Little Queen	1977	<__main__.Album object at 0x101a7b908>
+Heart	Little Queen	1977	<__main__.Album object at 0x101a7b908>
+Heart	Little Queen	1977	<__main__.Album object at 0x101a7b908>
+Heart	Dog & Butterfly	1978	<__main__.Album object at 0x101a7bbe0>
+Heart	Dog & Butterfly	1978	<__main__.Album object at 0x101a7bbe0>
+Heart	Dog & Butterfly	1978	<__main__.Album object at 0x101a7bbe0>
+Heart	Dog & Butterfly	1978	<__main__.Album object at 0x101a7bbe0>
+Heart	Dog & Butterfly	1978	<__main__.Album object at 0x101a7bbe0>
+Heart	Dog & Butterfly	1978	<__main__.Album object at 0x101a7bbe0>
+Heart	Dog & Butterfly	1978	<__main__.Album object at 0x101a7bbe0>
+Heart	Dog & Butterfly	1978	<__main__.Album object at 0x101a7bbe0>
+Heart	Dog & Butterfly	1978	<__main__.Album object at 0x101a7bbe0>
+Heart	Dog & Butterfly	1978	<__main__.Album object at 0x101a7bbe0>
+Heart	Dog & Butterfly	1978	<__main__.Album object at 0x101a7bbe0>
+Heaven & Hell	The Devil You Know	2009	<__main__.Album object at 0x101a7bcc0>
+Heaven & Hell	The Devil You Know	2009	<__main__.Album object at 0x101a7bcc0>
+Heaven & Hell	The Devil You Know	2009	<__main__.Album object at 0x101a7bcc0>
+Heaven & Hell	The Devil You Know	2009	<__main__.Album object at 0x101a7bcc0>
+Heaven & Hell	The Devil You Know	2009	<__main__.Album object at 0x101a7bcc0>
+Heaven & Hell	The Devil You Know	2009	<__main__.Album object at 0x101a7bcc0>
+Heaven & Hell	The Devil You Know	2009	<__main__.Album object at 0x101a7bcc0>
+Heaven & Hell	The Devil You Know	2009	<__main__.Album object at 0x101a7bcc0>
+Heaven & Hell	The Devil You Know	2009	<__main__.Album object at 0x101a7bcc0>
+Heaven & Hell	The Devil You Know	2009	<__main__.Album object at 0x101a7bcc0>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<__main__.Album object at 0x101a7f128>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<__main__.Album object at 0x101a7f128>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<__main__.Album object at 0x101a7f128>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<__main__.Album object at 0x101a7f128>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<__main__.Album object at 0x101a7f128>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<__main__.Album object at 0x101a7f128>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<__main__.Album object at 0x101a7f128>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<__main__.Album object at 0x101a7f128>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<__main__.Album object at 0x101a7f128>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<__main__.Album object at 0x101a7f128>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<__main__.Album object at 0x101a7f128>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<__main__.Album object at 0x101a7f128>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<__main__.Album object at 0x101a7f128>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<__main__.Album object at 0x101a7f128>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<__main__.Album object at 0x101a7f128>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<__main__.Album object at 0x101a7f128>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<__main__.Album object at 0x101a7f128>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<__main__.Album object at 0x101a7f128>
+Treatment	Running With The Dogs	2014	<__main__.Album object at 0x101a7f588>
+Treatment	Running With The Dogs	2014	<__main__.Album object at 0x101a7f588>
+Treatment	Running With The Dogs	2014	<__main__.Album object at 0x101a7f588>
+Treatment	Running With The Dogs	2014	<__main__.Album object at 0x101a7f588>
+Treatment	Running With The Dogs	2014	<__main__.Album object at 0x101a7f588>
+Treatment	Running With The Dogs	2014	<__main__.Album object at 0x101a7f588>
+Treatment	Running With The Dogs	2014	<__main__.Album object at 0x101a7f588>
+Treatment	Running With The Dogs	2014	<__main__.Album object at 0x101a7f588>
+Treatment	Running With The Dogs	2014	<__main__.Album object at 0x101a7f588>
+Treatment	Running With The Dogs	2014	<__main__.Album object at 0x101a7f588>
+Treatment	Running With The Dogs	2014	<__main__.Album object at 0x101a7f588>
+Treatment	Running With The Dogs	2014	<__main__.Album object at 0x101a7f588>
+Treatment	Running With The Dogs	2014	<__main__.Album object at 0x101a7f588>
+Treatment	Running With The Dogs	2014	<__main__.Album object at 0x101a7f588>
+Treatment	Running With The Dogs	2014	<__main__.Album object at 0x101a7f588>
+Treatment	Running With The Dogs	2014	<__main__.Album object at 0x101a7f588>
+Treatment	Running With The Dogs	2014	<__main__.Album object at 0x101a7f588>
+Treatment	Running With The Dogs	2014	<__main__.Album object at 0x101a7f588>
+Treatment	Running With The Dogs	2014	<__main__.Album object at 0x101a7f588>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<__main__.Album object at 0x101a7fa58>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<__main__.Album object at 0x101a7fa58>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<__main__.Album object at 0x101a7fa58>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<__main__.Album object at 0x101a7fa58>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<__main__.Album object at 0x101a7fa58>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<__main__.Album object at 0x101a7fa58>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<__main__.Album object at 0x101a7fa58>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<__main__.Album object at 0x101a7fa58>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<__main__.Album object at 0x101a7fa58>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<__main__.Album object at 0x101a7fa58>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<__main__.Album object at 0x101a7fa58>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<__main__.Album object at 0x101a7fa58>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<__main__.Album object at 0x101a7fa58>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<__main__.Album object at 0x101a7fa58>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<__main__.Album object at 0x101a7fa58>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<__main__.Album object at 0x101a7fa58>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<__main__.Album object at 0x101a7fa58>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<__main__.Album object at 0x101a7fa58>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<__main__.Album object at 0x101a7fa58>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<__main__.Album object at 0x101a7fa58>
+Troggs	Athens Andover	1992	<__main__.Album object at 0x101a7fac8>
+Troggs	Athens Andover	1992	<__main__.Album object at 0x101a7fac8>
+Troggs	Athens Andover	1992	<__main__.Album object at 0x101a7fac8>
+Troggs	Athens Andover	1992	<__main__.Album object at 0x101a7fac8>
+Troggs	Athens Andover	1992	<__main__.Album object at 0x101a7fac8>
+Troggs	Athens Andover	1992	<__main__.Album object at 0x101a7fac8>
+Troggs	Athens Andover	1992	<__main__.Album object at 0x101a7fac8>
+Troggs	Athens Andover	1992	<__main__.Album object at 0x101a7fac8>
+Troggs	Athens Andover	1992	<__main__.Album object at 0x101a7fac8>
+Troggs	Athens Andover	1992	<__main__.Album object at 0x101a7fac8>
+Troggs	Athens Andover	1992	<__main__.Album object at 0x101a7fac8>
+Troggs	Wild Thing - The Greatest Hits	1993	<__main__.Album object at 0x101a822b0>
+Troggs	Wild Thing - The Greatest Hits	1993	<__main__.Album object at 0x101a822b0>
+Troggs	Wild Thing - The Greatest Hits	1993	<__main__.Album object at 0x101a822b0>
+Troggs	Wild Thing - The Greatest Hits	1993	<__main__.Album object at 0x101a822b0>
+Troggs	Wild Thing - The Greatest Hits	1993	<__main__.Album object at 0x101a822b0>
+Troggs	Wild Thing - The Greatest Hits	1993	<__main__.Album object at 0x101a822b0>
+Troggs	Wild Thing - The Greatest Hits	1993	<__main__.Album object at 0x101a822b0>
+Troggs	Wild Thing - The Greatest Hits	1993	<__main__.Album object at 0x101a822b0>
+Troggs	Wild Thing - The Greatest Hits	1993	<__main__.Album object at 0x101a822b0>
+Troggs	Wild Thing - The Greatest Hits	1993	<__main__.Album object at 0x101a822b0>
+Troggs	Wild Thing - The Greatest Hits	1993	<__main__.Album object at 0x101a822b0>
+Troggs	Wild Thing - The Greatest Hits	1993	<__main__.Album object at 0x101a822b0>
+Troggs	Wild Thing - The Greatest Hits	1993	<__main__.Album object at 0x101a822b0>
+Troggs	Wild Thing - The Greatest Hits	1993	<__main__.Album object at 0x101a822b0>
+U2	18 Singles	2006	<__main__.Album object at 0x101a82630>
+U2	18 Singles	2006	<__main__.Album object at 0x101a82630>
+U2	18 Singles	2006	<__main__.Album object at 0x101a82630>
+U2	18 Singles	2006	<__main__.Album object at 0x101a82630>
+U2	18 Singles	2006	<__main__.Album object at 0x101a82630>
+U2	18 Singles	2006	<__main__.Album object at 0x101a82630>
+U2	18 Singles	2006	<__main__.Album object at 0x101a82630>
+U2	18 Singles	2006	<__main__.Album object at 0x101a82630>
+U2	18 Singles	2006	<__main__.Album object at 0x101a82630>
+U2	18 Singles	2006	<__main__.Album object at 0x101a82630>
+U2	18 Singles	2006	<__main__.Album object at 0x101a82630>
+U2	18 Singles	2006	<__main__.Album object at 0x101a82630>
+U2	18 Singles	2006	<__main__.Album object at 0x101a82630>
+U2	18 Singles	2006	<__main__.Album object at 0x101a82630>
+U2	18 Singles	2006	<__main__.Album object at 0x101a82630>
+U2	18 Singles	2006	<__main__.Album object at 0x101a82630>
+U2	18 Singles	2006	<__main__.Album object at 0x101a82630>
+U2	18 Singles	2006	<__main__.Album object at 0x101a82630>
+U2	18 Singles	2006	<__main__.Album object at 0x101a82630>
+UFO	Phenomenon	1999	<__main__.Album object at 0x101a82b38>
+UFO	Phenomenon	1999	<__main__.Album object at 0x101a82b38>
+UFO	Phenomenon	1999	<__main__.Album object at 0x101a82b38>
+UFO	Phenomenon	1999	<__main__.Album object at 0x101a82b38>
+UFO	Phenomenon	1999	<__main__.Album object at 0x101a82b38>
+UFO	Phenomenon	1999	<__main__.Album object at 0x101a82b38>
+UFO	Phenomenon	1999	<__main__.Album object at 0x101a82b38>
+UFO	Phenomenon	1999	<__main__.Album object at 0x101a82b38>
+UFO	Phenomenon	1999	<__main__.Album object at 0x101a82b38>
+UFO	Phenomenon	1999	<__main__.Album object at 0x101a82b38>
+Uriah Heep	Demons And Wizards	1972	<__main__.Album object at 0x101a82b70>
+Uriah Heep	Demons And Wizards	1972	<__main__.Album object at 0x101a82b70>
+Uriah Heep	Demons And Wizards	1972	<__main__.Album object at 0x101a82b70>
+Uriah Heep	Demons And Wizards	1972	<__main__.Album object at 0x101a82b70>
+Uriah Heep	Demons And Wizards	1972	<__main__.Album object at 0x101a82b70>
+Uriah Heep	Demons And Wizards	1972	<__main__.Album object at 0x101a82b70>
+Uriah Heep	Demons And Wizards	1972	<__main__.Album object at 0x101a82b70>
+Uriah Heep	Demons And Wizards	1972	<__main__.Album object at 0x101a82b70>
+Uriah Heep	Demons And Wizards	1972	<__main__.Album object at 0x101a82b70>
+Uriah Heep	The Magician's Birthday	1972	<__main__.Album object at 0x101a82f98>
+Uriah Heep	The Magician's Birthday	1972	<__main__.Album object at 0x101a82f98>
+Uriah Heep	The Magician's Birthday	1972	<__main__.Album object at 0x101a82f98>
+Uriah Heep	The Magician's Birthday	1972	<__main__.Album object at 0x101a82f98>
+Uriah Heep	The Magician's Birthday	1972	<__main__.Album object at 0x101a82f98>
+Uriah Heep	The Magician's Birthday	1972	<__main__.Album object at 0x101a82f98>
+Uriah Heep	The Magician's Birthday	1972	<__main__.Album object at 0x101a82f98>
+Uriah Heep	The Magician's Birthday	1972	<__main__.Album object at 0x101a82f98>
+Uriah Heep	Uriah Heep Live	1986	<__main__.Album object at 0x101a85198>
+Uriah Heep	Uriah Heep Live	1986	<__main__.Album object at 0x101a85198>
+Uriah Heep	Uriah Heep Live	1986	<__main__.Album object at 0x101a85198>
+Uriah Heep	Uriah Heep Live	1986	<__main__.Album object at 0x101a85198>
+Uriah Heep	Uriah Heep Live	1986	<__main__.Album object at 0x101a85198>
+Uriah Heep	Uriah Heep Live	1986	<__main__.Album object at 0x101a85198>
+Uriah Heep	Uriah Heep Live	1986	<__main__.Album object at 0x101a85198>
+Uriah Heep	Uriah Heep Live	1986	<__main__.Album object at 0x101a85198>
+Vangelis	Albedo 0.39	1976	<__main__.Album object at 0x101a85470>
+Vangelis	Albedo 0.39	1976	<__main__.Album object at 0x101a85470>
+Vangelis	Albedo 0.39	1976	<__main__.Album object at 0x101a85470>
+Vangelis	Albedo 0.39	1976	<__main__.Album object at 0x101a85470>
+Vangelis	Albedo 0.39	1976	<__main__.Album object at 0x101a85470>
+Vangelis	Albedo 0.39	1976	<__main__.Album object at 0x101a85470>
+Vangelis	Albedo 0.39	1976	<__main__.Album object at 0x101a85470>
+Vangelis	Albedo 0.39	1976	<__main__.Album object at 0x101a85470>
+Vangelis	Albedo 0.39	1976	<__main__.Album object at 0x101a85470>
+Van Halen	Van Halen	1978	<__main__.Album object at 0x101a856a0>
+Van Halen	Van Halen	1978	<__main__.Album object at 0x101a856a0>
+Van Halen	Van Halen	1978	<__main__.Album object at 0x101a856a0>
+Van Halen	Van Halen	1978	<__main__.Album object at 0x101a856a0>
+Van Halen	Van Halen	1978	<__main__.Album object at 0x101a856a0>
+Van Halen	Van Halen	1978	<__main__.Album object at 0x101a856a0>
+Van Halen	Van Halen	1978	<__main__.Album object at 0x101a856a0>
+Van Halen	Van Halen	1978	<__main__.Album object at 0x101a856a0>
+Van Halen	Van Halen	1978	<__main__.Album object at 0x101a856a0>
+Van Halen	Van Halen	1978	<__main__.Album object at 0x101a856a0>
+Van Halen	Van Halen	1978	<__main__.Album object at 0x101a856a0>
+Van Halen	1984	1984	<__main__.Album object at 0x101a85978>
+Van Halen	1984	1984	<__main__.Album object at 0x101a85978>
+Van Halen	1984	1984	<__main__.Album object at 0x101a85978>
+Van Halen	1984	1984	<__main__.Album object at 0x101a85978>
+Van Halen	1984	1984	<__main__.Album object at 0x101a85978>
+Van Halen	1984	1984	<__main__.Album object at 0x101a85978>
+Van Halen	1984	1984	<__main__.Album object at 0x101a85978>
+Van Halen	1984	1984	<__main__.Album object at 0x101a85978>
+Van Halen	1984	1984	<__main__.Album object at 0x101a85978>
+Velvet Revolver	Libertad	2007	<__main__.Album object at 0x101a85be0>
+Velvet Revolver	Libertad	2007	<__main__.Album object at 0x101a85be0>
+Velvet Revolver	Libertad	2007	<__main__.Album object at 0x101a85be0>
+Velvet Revolver	Libertad	2007	<__main__.Album object at 0x101a85be0>
+Velvet Revolver	Libertad	2007	<__main__.Album object at 0x101a85be0>
+Velvet Revolver	Libertad	2007	<__main__.Album object at 0x101a85be0>
+Velvet Revolver	Libertad	2007	<__main__.Album object at 0x101a85be0>
+Velvet Revolver	Libertad	2007	<__main__.Album object at 0x101a85be0>
+Velvet Revolver	Libertad	2007	<__main__.Album object at 0x101a85be0>
+Velvet Revolver	Libertad	2007	<__main__.Album object at 0x101a85be0>
+Velvet Revolver	Libertad	2007	<__main__.Album object at 0x101a85be0>
+Velvet Revolver	Libertad	2007	<__main__.Album object at 0x101a85be0>
+Velvet Revolver	Libertad	2007	<__main__.Album object at 0x101a85be0>
+Velvet Underground	The Velvet Underground & Nico	1967	<__main__.Album object at 0x101a85ef0>
+Velvet Underground	The Velvet Underground & Nico	1967	<__main__.Album object at 0x101a85ef0>
+Velvet Underground	The Velvet Underground & Nico	1967	<__main__.Album object at 0x101a85ef0>
+Velvet Underground	The Velvet Underground & Nico	1967	<__main__.Album object at 0x101a85ef0>
+Velvet Underground	The Velvet Underground & Nico	1967	<__main__.Album object at 0x101a85ef0>
+Velvet Underground	The Velvet Underground & Nico	1967	<__main__.Album object at 0x101a85ef0>
+Velvet Underground	The Velvet Underground & Nico	1967	<__main__.Album object at 0x101a85ef0>
+Velvet Underground	The Velvet Underground & Nico	1967	<__main__.Album object at 0x101a85ef0>
+Velvet Underground	The Velvet Underground & Nico	1967	<__main__.Album object at 0x101a85ef0>
+Velvet Underground	The Velvet Underground & Nico	1967	<__main__.Album object at 0x101a85ef0>
+Velvet Underground	The Velvet Underground & Nico	1967	<__main__.Album object at 0x101a85ef0>
+Vladimir Vysotsky	Izbrannoye	2011	<__main__.Album object at 0x101a88240>
+Warner E Hodges	Gunslinger	2014	<__main__.Album object at 0x101a882e8>
+Warner E Hodges	Gunslinger	2014	<__main__.Album object at 0x101a882e8>
+Warner E Hodges	Gunslinger	2014	<__main__.Album object at 0x101a882e8>
+Warner E Hodges	Gunslinger	2014	<__main__.Album object at 0x101a882e8>
+Warner E Hodges	Gunslinger	2014	<__main__.Album object at 0x101a882e8>
+Warner E Hodges	Gunslinger	2014	<__main__.Album object at 0x101a882e8>
+Warner E Hodges	Gunslinger	2014	<__main__.Album object at 0x101a882e8>
+Warner E Hodges	Gunslinger	2014	<__main__.Album object at 0x101a882e8>
+Warner E Hodges	Gunslinger	2014	<__main__.Album object at 0x101a882e8>
+Warner E Hodges	Gunslinger	2014	<__main__.Album object at 0x101a882e8>
+White Zombie	Astro-Creep	2000	<__main__.Album object at 0x101a88588>
+White Zombie	Astro-Creep	2000	<__main__.Album object at 0x101a88588>
+White Zombie	Astro-Creep	2000	<__main__.Album object at 0x101a88588>
+White Zombie	Astro-Creep	2000	<__main__.Album object at 0x101a88588>
+White Zombie	Astro-Creep	2000	<__main__.Album object at 0x101a88588>
+White Zombie	Astro-Creep	2000	<__main__.Album object at 0x101a88588>
+White Zombie	Astro-Creep	2000	<__main__.Album object at 0x101a88588>
+White Zombie	Astro-Creep	2000	<__main__.Album object at 0x101a88588>
+White Zombie	Astro-Creep	2000	<__main__.Album object at 0x101a88588>
+White Zombie	Astro-Creep	2000	<__main__.Album object at 0x101a88588>
+White Zombie	Astro-Creep	2000	<__main__.Album object at 0x101a88588>
+Wishbone Ash	Argus	1972	<__main__.Album object at 0x101a88898>
+Wishbone Ash	Argus	1972	<__main__.Album object at 0x101a88898>
+Wishbone Ash	Argus	1972	<__main__.Album object at 0x101a88898>
+Wishbone Ash	Argus	1972	<__main__.Album object at 0x101a88898>
+Wishbone Ash	Argus	1972	<__main__.Album object at 0x101a88898>
+Wishbone Ash	Argus	1972	<__main__.Album object at 0x101a88898>
+Wishbone Ash	Argus	1972	<__main__.Album object at 0x101a88898>
+Wishbone Ash	Argus	1972	<__main__.Album object at 0x101a88898>
+Wishbone Ash	Argus	1972	<__main__.Album object at 0x101a88898>
+Wishbone Ash	Argus	1972	<__main__.Album object at 0x101a88898>
+Wishbone Ash	Keeper Of The Light [Live In Chicago]	1992	<__main__.Album object at 0x101a88940>
+Wishbone Ash	Keeper Of The Light [Live In Chicago]	1992	<__main__.Album object at 0x101a88940>
+Wishbone Ash	Keeper Of The Light [Live In Chicago]	1992	<__main__.Album object at 0x101a88940>
+Wishbone Ash	Keeper Of The Light [Live In Chicago]	1992	<__main__.Album object at 0x101a88940>
+Wishbone Ash	Keeper Of The Light [Live In Chicago]	1992	<__main__.Album object at 0x101a88940>
+Wishbone Ash	Keeper Of The Light [Live In Chicago]	1992	<__main__.Album object at 0x101a88940>
+Wishbone Ash	Keeper Of The Light [Live In Chicago]	1992	<__main__.Album object at 0x101a88940>
+Wishbone Ash	Keeper Of The Light [Live In Chicago]	1992	<__main__.Album object at 0x101a88940>
+Wishbone Ash	Keeper Of The Light [Live In Chicago]	1992	<__main__.Album object at 0x101a88940>
+Wishbone Ash	Keeper Of The Light [Live In Chicago]	1992	<__main__.Album object at 0x101a88940>
+Wishbone Ash	Keeper Of The Light [Live In Chicago]	1992	<__main__.Album object at 0x101a88940>
+Wishbone Ash	Wishbone Four	1973	<__main__.Album object at 0x101a88d68>
+Wishbone Ash	Wishbone Four	1973	<__main__.Album object at 0x101a88d68>
+Wishbone Ash	Wishbone Four	1973	<__main__.Album object at 0x101a88d68>
+Wishbone Ash	Wishbone Four	1973	<__main__.Album object at 0x101a88d68>
+Wishbone Ash	Wishbone Four	1973	<__main__.Album object at 0x101a88d68>
+Wishbone Ash	Wishbone Four	1973	<__main__.Album object at 0x101a88d68>
+Wishbone Ash	Wishbone Four	1973	<__main__.Album object at 0x101a88d68>
+Wishbone Ash	Wishbone Four	1973	<__main__.Album object at 0x101a88d68>
+Yardbirds	The Very Best of the Yardbirds	1991	<__main__.Album object at 0x101a88f98>
+Yardbirds	The Very Best of the Yardbirds	1991	<__main__.Album object at 0x101a88f98>
+Yardbirds	The Very Best of the Yardbirds	1991	<__main__.Album object at 0x101a88f98>
+Yardbirds	The Very Best of the Yardbirds	1991	<__main__.Album object at 0x101a88f98>
+Yardbirds	The Very Best of the Yardbirds	1991	<__main__.Album object at 0x101a88f98>
+Yardbirds	The Very Best of the Yardbirds	1991	<__main__.Album object at 0x101a88f98>
+Yardbirds	The Very Best of the Yardbirds	1991	<__main__.Album object at 0x101a88f98>
+Yardbirds	The Very Best of the Yardbirds	1991	<__main__.Album object at 0x101a88f98>
+Yardbirds	The Very Best of the Yardbirds	1991	<__main__.Album object at 0x101a88f98>
+Yardbirds	The Very Best of the Yardbirds	1991	<__main__.Album object at 0x101a88f98>
+Yardbirds	The Very Best of the Yardbirds	1991	<__main__.Album object at 0x101a88f98>
+Yardbirds	The Very Best of the Yardbirds	1991	<__main__.Album object at 0x101a88f98>
+Yardbirds	The Very Best of the Yardbirds	1991	<__main__.Album object at 0x101a88f98>
+Yardbirds	The Very Best of the Yardbirds	1991	<__main__.Album object at 0x101a88f98>
+Yardbirds	The Very Best of the Yardbirds	1991	<__main__.Album object at 0x101a88f98>
+Yardbirds	The Very Best of the Yardbirds	1991	<__main__.Album object at 0x101a88f98>
+Yardbirds	The Very Best of the Yardbirds	1991	<__main__.Album object at 0x101a88f98>
+Yardbirds	The Very Best of the Yardbirds	1991	<__main__.Album object at 0x101a88f98>
+Yardbirds	The Very Best of the Yardbirds	1991	<__main__.Album object at 0x101a88f98>
+Yardbirds	The Very Best of the Yardbirds	1991	<__main__.Album object at 0x101a88f98>
+Yardbirds	The Very Best of the Yardbirds	1991	<__main__.Album object at 0x101a88f98>
+Yardbirds	The Very Best of the Yardbirds	1991	<__main__.Album object at 0x101a88f98>
+Yngwie Malmsteen	Rising Force	1984	<__main__.Album object at 0x101a8b518>
+Yngwie Malmsteen	Rising Force	1984	<__main__.Album object at 0x101a8b518>
+Yngwie Malmsteen	Rising Force	1984	<__main__.Album object at 0x101a8b518>
+Yngwie Malmsteen	Rising Force	1984	<__main__.Album object at 0x101a8b518>
+Yngwie Malmsteen	Rising Force	1984	<__main__.Album object at 0x101a8b518>
+Yngwie Malmsteen	Rising Force	1984	<__main__.Album object at 0x101a8b518>
+Yngwie Malmsteen	Rising Force	1984	<__main__.Album object at 0x101a8b518>
+Yngwie Malmsteen	Rising Force	1984	<__main__.Album object at 0x101a8b518>
+ZZ Top	Rio Grande Mud	1972	<__main__.Album object at 0x101a8b780>
+ZZ Top	Rio Grande Mud	1972	<__main__.Album object at 0x101a8b780>
+ZZ Top	Rio Grande Mud	1972	<__main__.Album object at 0x101a8b780>
+ZZ Top	Rio Grande Mud	1972	<__main__.Album object at 0x101a8b780>
+ZZ Top	Rio Grande Mud	1972	<__main__.Album object at 0x101a8b780>
+ZZ Top	Rio Grande Mud	1972	<__main__.Album object at 0x101a8b780>
+ZZ Top	Rio Grande Mud	1972	<__main__.Album object at 0x101a8b780>
+ZZ Top	Rio Grande Mud	1972	<__main__.Album object at 0x101a8b780>
+ZZ Top	Rio Grande Mud	1972	<__main__.Album object at 0x101a8b780>
+ZZ Top	Rio Grande Mud	1972	<__main__.Album object at 0x101a8b780>
+ZZ Top	Tres Hombres	1973	<__main__.Album object at 0x101a8ba58>
+ZZ Top	Tres Hombres	1973	<__main__.Album object at 0x101a8ba58>
+ZZ Top	Tres Hombres	1973	<__main__.Album object at 0x101a8ba58>
+ZZ Top	Tres Hombres	1973	<__main__.Album object at 0x101a8ba58>
+ZZ Top	Tres Hombres	1973	<__main__.Album object at 0x101a8ba58>
+ZZ Top	Tres Hombres	1973	<__main__.Album object at 0x101a8ba58>
+ZZ Top	Tres Hombres	1973	<__main__.Album object at 0x101a8ba58>
+ZZ Top	Tres Hombres	1973	<__main__.Album object at 0x101a8ba58>
+ZZ Top	Tres Hombres	1973	<__main__.Album object at 0x101a8ba58>
+ZZ Top	Tres Hombres	1973	<__main__.Album object at 0x101a8ba58>
+ZZ Top	Tres Hombres	1973	<__main__.Album object at 0x101a8ba58>
+ZZ Top	Tres Hombres	1973	<__main__.Album object at 0x101a8ba58>
+ZZ Top	Tres Hombres	1973	<__main__.Album object at 0x101a8ba58>
+ZZ Top	Degüello	1979	<__main__.Album object at 0x101a8bc88>
+ZZ Top	Degüello	1979	<__main__.Album object at 0x101a8bc88>
+ZZ Top	Degüello	1979	<__main__.Album object at 0x101a8bc88>
+ZZ Top	Degüello	1979	<__main__.Album object at 0x101a8bc88>
+ZZ Top	Degüello	1979	<__main__.Album object at 0x101a8bc88>
+ZZ Top	Degüello	1979	<__main__.Album object at 0x101a8bc88>
+ZZ Top	Degüello	1979	<__main__.Album object at 0x101a8bc88>
+ZZ Top	Degüello	1979	<__main__.Album object at 0x101a8bc88>
+ZZ Top	Degüello	1979	<__main__.Album object at 0x101a8bc88>
+ZZ Top	Degüello	1979	<__main__.Album object at 0x101a8bc88>
+ZZ Top	Recycler	1990	<__main__.Album object at 0x101a8bda0>
+ZZ Top	Recycler	1990	<__main__.Album object at 0x101a8bda0>
+ZZ Top	Recycler	1990	<__main__.Album object at 0x101a8bda0>
+ZZ Top	Recycler	1990	<__main__.Album object at 0x101a8bda0>
+ZZ Top	Recycler	1990	<__main__.Album object at 0x101a8bda0>
+ZZ Top	Recycler	1990	<__main__.Album object at 0x101a8bda0>
+ZZ Top	Recycler	1990	<__main__.Album object at 0x101a8bda0>
+ZZ Top	Recycler	1990	<__main__.Album object at 0x101a8bda0>
+ZZ Top	Recycler	1990	<__main__.Album object at 0x101a8bda0>
+ZZ Top	Recycler	1990	<__main__.Album object at 0x101a8bda0>
+ZZ Top	Antenna	1994	<__main__.Album object at 0x101a8f128>
+ZZ Top	Antenna	1994	<__main__.Album object at 0x101a8f128>
+ZZ Top	Antenna	1994	<__main__.Album object at 0x101a8f128>
+ZZ Top	Antenna	1994	<__main__.Album object at 0x101a8f128>
+ZZ Top	Antenna	1994	<__main__.Album object at 0x101a8f128>
+ZZ Top	Antenna	1994	<__main__.Album object at 0x101a8f128>
+ZZ Top	Antenna	1994	<__main__.Album object at 0x101a8f128>
+ZZ Top	Antenna	1994	<__main__.Album object at 0x101a8f128>
+ZZ Top	Antenna	1994	<__main__.Album object at 0x101a8f128>
+ZZ Top	Antenna	1994	<__main__.Album object at 0x101a8f128>
+ZZ Top	Antenna	1994	<__main__.Album object at 0x101a8f128>
+ZZ Top	Antenna	1994	<__main__.Album object at 0x101a8f128>
+ZZ Top	Mescalero	2003	<__main__.Album object at 0x101a8f2e8>
+ZZ Top	Mescalero	2003	<__main__.Album object at 0x101a8f2e8>
+ZZ Top	Mescalero	2003	<__main__.Album object at 0x101a8f2e8>
+ZZ Top	Mescalero	2003	<__main__.Album object at 0x101a8f2e8>
+ZZ Top	Mescalero	2003	<__main__.Album object at 0x101a8f2e8>
+ZZ Top	Mescalero	2003	<__main__.Album object at 0x101a8f2e8>
+ZZ Top	Mescalero	2003	<__main__.Album object at 0x101a8f2e8>
+ZZ Top	Mescalero	2003	<__main__.Album object at 0x101a8f2e8>
+ZZ Top	Mescalero	2003	<__main__.Album object at 0x101a8f2e8>
+ZZ Top	Mescalero	2003	<__main__.Album object at 0x101a8f2e8>
+ZZ Top	Mescalero	2003	<__main__.Album object at 0x101a8f2e8>
+ZZ Top	Mescalero	2003	<__main__.Album object at 0x101a8f2e8>
+ZZ Top	Mescalero	2003	<__main__.Album object at 0x101a8f2e8>
+ZZ Top	Mescalero	2003	<__main__.Album object at 0x101a8f2e8>
+ZZ Top	Mescalero	2003	<__main__.Album object at 0x101a8f2e8>
+ZZ Top	Mescalero	2003	<__main__.Album object at 0x101a8f2e8>
